@@ -1,5 +1,7 @@
 # yelle
-Deployd backend of project yelle. 
+Deployd backend of project yelle.
+
+Yelle is a project developed in [Fikrimuhal](http://fikrimuhal.com) Head Quarters. It allows the team to control air-conditioning system via slack messages..
 
 This project is powered by [deployd](http://deployd.com). It's a very simple way to create an api for your iot and mobile projects.
 
