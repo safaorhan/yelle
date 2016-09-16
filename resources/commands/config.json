@@ -1,0 +1,101 @@
+{
+	"type": "Collection",
+	"properties": {
+		"teamId": {
+			"name": "teamId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "teamId",
+			"order": 0
+		},
+		"teamDomain": {
+			"name": "teamDomain",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "teamDomain",
+			"order": 1
+		},
+		"channelId": {
+			"name": "channelId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "channelId",
+			"order": 2
+		},
+		"channelName": {
+			"name": "channelName",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "channelName",
+			"order": 3
+		},
+		"userId": {
+			"name": "userId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "userId",
+			"order": 4
+		},
+		"userName": {
+			"name": "userName",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "userName",
+			"order": 5
+		},
+		"command": {
+			"name": "command",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "command",
+			"order": 6
+		},
+		"text": {
+			"name": "text",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "text",
+			"order": 7
+		},
+		"responseUrl": {
+			"name": "responseUrl",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "responseUrl",
+			"order": 8
+		},
+		"timestamp": {
+			"name": "timestamp",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "timestamp",
+			"order": 9
+		},
+		"code": {
+			"name": "code",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "code",
+			"order": 10
+		},
+		"param": {
+			"name": "param",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "param",
+			"order": 11
+		}
+	}
+}
